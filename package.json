@@ -1,0 +1,11 @@
+{
+  "name": "granproject",
+  "version": "1.0.0",
+  "description": "FACULDADE GRAN (https://faculdade.grancursosonline.com.br/)\r Projeto Disciplina Projeto Integrador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
